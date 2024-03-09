@@ -2,6 +2,5 @@
 title: 'Contact'
 ---
 
-To contact us, please fill out the form below.
+To contact me, email me at: cynthia@agri-ai.nl
 
-{{< form >}}
